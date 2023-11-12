@@ -37,7 +37,7 @@ questinnaire()
         print("ERROR: Mauvaise reponse" ,"vous venez de signer votre arret de mort")
 questinnaire ("Quel est la capitale du Bénin ? ","Togo","Lokossa","Cotonou","Porto-Novo","d")
 '''
-Noms_distances=[("toto",1.4),("rory",1.5),("ryry",0.5)]
+Noms_distances=[("toto",1.4),("rury",1.5),("ryry",0.5)]
 Noms_distances_min=Noms_distances[0][1]
 for i in range(len(Noms_distances)):
     if Noms_distances [i][1]< Noms_distances_min:
